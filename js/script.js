@@ -1,3 +1,7 @@
+//Tramell Cutler
+//Apr,17,2014
+//WPF WK 3
+
 var minAge = 30;
 var minAgewescort = 29;
 
